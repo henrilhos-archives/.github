@@ -1,12 +1,32 @@
 ## Hi there 👋
 
-<!--
+This is my organization for college and outdated stuff.
 
-**Here are some ideas to get you started:**
+### College repos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details>
+  <summary><b>1st semester</b></summary>
+</details>
+<details>
+  <summary><b>2nd semester</b></summary>
+</details>
+<details>
+  <summary><b>3rd semester</b></summary>
+</details>
+<details>
+  <summary><b>4th semester</b></summary>
+</details>
+<details>
+  <summary><b>5th semester</b></summary>
+</details>
+<details>
+  <summary><b>6th semester</b></summary>
+</details>
+<details>
+  <summary><b>7th semester</b></summary>
+  
+  - [G0014 - Machine Learning](https://github.com/henrilhos-archives/G0014-Machine-Learning)
+</details>
+<details>
+  <summary><b>8th semester</b></summary>
+</details>
