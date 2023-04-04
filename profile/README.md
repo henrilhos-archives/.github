@@ -4,6 +4,7 @@ This is my organization for college and outdated stuff.
 
 ### College repos
 
+<!-- 
 <details>
   <summary><b>1st semester</b></summary>
 </details>
@@ -21,7 +22,7 @@ This is my organization for college and outdated stuff.
 </details>
 <details>
   <summary><b>6th semester</b></summary>
-</details>
+</details> -->
 <details>
   <summary><b>7th semester</b></summary>
 
@@ -31,4 +32,6 @@ This is my organization for college and outdated stuff.
 </details>
 <details>
   <summary><b>8th semester</b></summary>
+  
+  - [G0033 - Data Science](https://github.com/henrilhos-archives/G0033-Data-Science)
 </details>
