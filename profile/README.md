@@ -28,7 +28,7 @@ This is my organization for college and outdated stuff.
 
   - [G0005 - Advanced Algorithms](https://github.com/henrilhos-archives/G0005-Advanced-Algorithms)
   - [G0014 - Machine Learning](https://github.com/henrilhos-archives/G0014-Machine-Learning)
-  - [Collaborative Learning Project - Song Recommendation]()
+  - [Collaborative Learning Project - Song Recommendation](https://github.com/henrilhos-archives/Song-Recommendation)
 </details>
 <details>
   <summary><b>8th semester</b></summary>
