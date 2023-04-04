@@ -24,6 +24,7 @@ This is my organization for college and outdated stuff.
 </details>
 <details>
   <summary><b>7th semester</b></summary>
+
   - [G0005 - Advanced Algorithms](https://github.com/henrilhos-archives/G0005-Advanced-Algorithms)
   - [G0014 - Machine Learning](https://github.com/henrilhos-archives/G0014-Machine-Learning)
 </details>
